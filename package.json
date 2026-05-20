@@ -1,0 +1,12 @@
+{
+  "name": "chat-ai",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "From-scratch GRU seq2seq chat AI",
+  "scripts": {
+    "tokenize": "node tokenizer.js",
+    "embed": "node embedding.js",
+    "train": "node train.js",
+    "chat": "node chat.js"
+  }
+}

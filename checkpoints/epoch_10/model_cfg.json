@@ -1,0 +1,1 @@
+{"vocabSize":1860,"maxSeqLen":69,"cfg":{"embedDim":64,"hiddenDim":128,"attnDim":64,"maxDecLen":40,"temperature":0.8,"learningRate":0.001,"gradClip":5}}
